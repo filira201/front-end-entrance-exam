@@ -1,0 +1,148 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?e6g095');
+  src:  url('fonts/icomoon.eot?e6g095#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?e6g095') format('truetype'),
+    url('fonts/icomoon.woff?e6g095') format('woff'),
+    url('fonts/icomoon.svg?e6g095#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-Vector-1:before {
+  content: "\e919";
+  color: #f6ed1e;
+}
+.icon-logoWebflow .path1:before {
+  content: "\e905";
+  color: rgb(255, 255, 255);
+}
+.icon-logoWebflow .path2:before {
+  content: "\e906";
+  margin-left: -0.947265625em;
+  color: rgb(67, 83, 255);
+}
+.icon-logoNotion:before {
+  content: "\e907";
+}
+.icon-logoMeet .path1:before {
+  content: "\e908";
+  color: rgb(251, 188, 5);
+}
+.icon-logoMeet .path2:before {
+  content: "\e909";
+  margin-left: -1.2353515625em;
+  color: rgb(251, 188, 5);
+}
+.icon-logoMeet .path3:before {
+  content: "\e90a";
+  margin-left: -1.2353515625em;
+  color: rgb(52, 168, 83);
+}
+.icon-logoMeet .path4:before {
+  content: "\e90b";
+  margin-left: -1.2353515625em;
+  color: rgb(234, 67, 53);
+}
+.icon-logoMeet .path5:before {
+  content: "\e90c";
+  margin-left: -1.2353515625em;
+  color: rgb(25, 103, 210);
+}
+.icon-logoMeet .path6:before {
+  content: "\e90d";
+  margin-left: -1.2353515625em;
+  color: rgb(66, 133, 244);
+}
+.icon-logoMeet .path7:before {
+  content: "\e90e";
+  margin-left: -1.2353515625em;
+  color: rgb(52, 168, 83);
+}
+.icon-logoMeet .path8:before {
+  content: "\e90f";
+  margin-left: -1.2353515625em;
+  color: rgb(24, 128, 56);
+}
+.icon-iconAdobePremiere .path1:before {
+  content: "\e910";
+  color: rgb(0, 0, 91);
+}
+.icon-iconAdobePremiere .path2:before {
+  content: "\e911";
+  margin-left: -1em;
+  color: rgb(153, 153, 255);
+}
+.icon-iconAdobePremiere .path3:before {
+  content: "\e912";
+  margin-left: -1em;
+  color: rgb(153, 153, 255);
+}
+.icon-iconAdobeIllustrator .path1:before {
+  content: "\e913";
+  color: rgb(51, 0, 0);
+}
+.icon-iconAdobeIllustrator .path2:before {
+  content: "\e914";
+  margin-left: -1em;
+  color: rgb(255, 154, 0);
+}
+.icon-iconAdobeIllustrator .path3:before {
+  content: "\e915";
+  margin-left: -1em;
+  color: rgb(255, 154, 0);
+}
+.icon-iconAdobePhotoshop .path1:before {
+  content: "\e916";
+  color: rgb(0, 30, 54);
+}
+.icon-iconAdobePhotoshop .path2:before {
+  content: "\e917";
+  margin-left: -1.06640625em;
+  color: rgb(49, 168, 255);
+}
+.icon-iconAdobePhotoshop .path3:before {
+  content: "\e918";
+  margin-left: -1.06640625em;
+  color: rgb(49, 168, 255);
+}
+.icon-logoFigma-1 .path1:before {
+  content: "\e900";
+  color: rgb(26, 188, 254);
+}
+.icon-logoFigma-1 .path2:before {
+  content: "\e901";
+  margin-left: -0.7333984375em;
+  color: rgb(10, 207, 131);
+}
+.icon-logoFigma-1 .path3:before {
+  content: "\e902";
+  margin-left: -0.7333984375em;
+  color: rgb(255, 114, 98);
+}
+.icon-logoFigma-1 .path4:before {
+  content: "\e903";
+  margin-left: -0.7333984375em;
+  color: rgb(242, 78, 30);
+}
+.icon-logoFigma-1 .path5:before {
+  content: "\e904";
+  margin-left: -0.7333984375em;
+  color: rgb(162, 89, 255);
+}
