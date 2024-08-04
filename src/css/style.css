@@ -549,9 +549,11 @@ main {
 @keyframes change-saved {
   from {
     transform: translateY(0px);
+    opacity: 1;
   }
   to {
     transform: translateY(-3px);
+    opacity: 0;
   }
 }
 
