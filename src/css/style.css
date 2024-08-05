@@ -549,16 +549,15 @@ main {
 @keyframes change-saved {
   from {
     transform: translateY(0px);
-    opacity: 1;
   }
   to {
     transform: translateY(-3px);
-    opacity: 0;
   }
 }
 
 .editable {
   animation-name: none;
+  animation-fill-mode: none;
   animation-duration: 0.3s;
   animation-direction: alternate;
   animation-iteration-count: 2;
